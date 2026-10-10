@@ -1,19 +1,36 @@
-# Hangman-Python
-A simple hangman game made with python and pygame. This was made as a beginner pygame project in grade 11 (2017).
+# Hangman - Python
 
-# Requirements
+A simple Hangman game built using Python and Pygame as a beginner game development project in Grade 11 (2017).
+
+## Requirements
+
 - Python 3.x
-- pygame
+- Pygame
 
-# 💻 Launch Your Software Development Career Today!  
+## Installation
 
-🎓 **No degree? No problem!** My program equips you with everything you need to break into tech and land an entry-level software development role.  
+Install Pygame using pip:
 
-🚀 **Why Join?**  
-- 💼 **$70k+ starting salary potential**  
-- 🕐 **Self-paced:** Complete on your own time  
-- 🤑 **Affordable:** Low risk compared to expensive bootcamps or degrees
-- 🎯 **45,000+ job openings** in the market  
+```bash
+pip install pygame
+```
 
-👉 **[Start your journey today!](https://techwithtim.net/dev)**  
-No experience needed—just your determination. Future-proof your career and unlock six-figure potential like many of our students have!  
+## Running the Game
+
+Clone the repository:
+
+```bash
+git clone https://github.com/kamalamerlyn-11/Hangman.git
+```
+
+Navigate to the project directory and run the game:
+
+```bash
+python hangman.py
+```
+
+Replace `YOUR_GAME_FILE.py` with the name of the Python file used to launch the game.
+
+## About
+
+This project was an introduction to Python game development using Pygame. It helped me explore basic programming concepts and game logic while building a simple interactive game.
